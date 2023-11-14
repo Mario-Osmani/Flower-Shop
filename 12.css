@@ -252,7 +252,6 @@
       flex-direction: column;
       text-align: center;
   }
-  
   .navbar ul li {
       margin: 10px 0;
   }
@@ -304,7 +303,7 @@
         overflow: hidden;
     }
     .best-sellers {
-        margin: 20px -5% 20px 7%;
+        
     }
     .best h2,
     .best h3 {
@@ -320,4 +319,3 @@
     .Prods{
       font-size: 24px;
     }
-}
